@@ -1,7 +1,7 @@
 # assignement conrad Asma ZGOLLI
 
 - 3 notebooks :
-  - data analysis
+  - data analysis: https://github.com/AsmaZgo/assignement_conrad/blob/main/ts_assignement_data_analysis.ipynb 
   - time series prediction: https://github.com/AsmaZgo/assignement_conrad/blob/main/ts_assignement.ipynb
   - probability based sales prediction
 - 2 csv :
