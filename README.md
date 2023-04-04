@@ -10,3 +10,4 @@
  - models binaries :
   - the gbr model (this model was selected for the first question)
   - the lstm model
+  - bayesian ann (selected for uncertainty) : https://github.com/AsmaZgo/assignement_conrad/blob/main/bayesian_ann_loss_mse-20230404T101153Z-001.zip 
